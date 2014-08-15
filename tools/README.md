@@ -2,11 +2,11 @@
 --------------------------
 
 ## index_tree_all_md.html_.sh
-This tools builds an index linking to all the *.md.html and *.mm files that you have in subdirectories
+This tools builds an index linking to all the *.md.html and *.mm files that you have inside subdirectories
 
 
 ## patch_old_md.html_.sh <file1.md.html> ... <fileN.md.html>
-For each file, this tool will check and patch some old-javascript-links to then new-and-working javascript-links
+For each file, this tool will check and patch some old-javascript-references to then new-and-working javascript-references
 
 
 
